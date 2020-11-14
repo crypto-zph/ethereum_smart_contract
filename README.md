@@ -1,4 +1,4 @@
-# Quasar App (uniq-documentation)
+# Quasar App
 
 A Quasar Framework app
 
